@@ -1,0 +1,73 @@
+[
+  {
+    "id": "ORD-1001",
+    "customerName": "Ali Khan",
+    "phone": "03001234567",
+    "address": "123 Main St, DHA",
+    "city": "Lahore",
+    "paymentMethod": "COD",
+    "status": "Delivered",
+    "items": [
+      { "productId": "p1", "name": "HYPERX CLOUD III", "qty": 1, "price": 14999 }
+    ],
+    "totalAmount": 15199,
+    "createdAt": "2023-10-01T10:00:00Z"
+  },
+  {
+    "id": "ORD-1002",
+    "customerName": "Sara Ahmed",
+    "phone": "03339876543",
+    "address": "456 Park Road, F-8",
+    "city": "Islamabad",
+    "paymentMethod": "JazzCash",
+    "status": "Shipped",
+    "items": [
+      { "productId": "p5", "name": "SAMSUNG GALAXY BUDS2", "qty": 1, "price": 12999 },
+      { "productId": "p14", "name": "PHONE GRIP STAND", "qty": 2, "price": 899 }
+    ],
+    "totalAmount": 14997,
+    "createdAt": "2023-10-05T14:30:00Z"
+  },
+  {
+    "id": "ORD-1003",
+    "customerName": "Usman Tariq",
+    "phone": "03451122334",
+    "address": "789 College Road",
+    "city": "Karachi",
+    "paymentMethod": "EasyPaisa",
+    "status": "Pending",
+    "items": [
+      { "productId": "p2", "name": "HYPERX ALPHA S", "qty": 1, "price": 9999 }
+    ],
+    "totalAmount": 10199,
+    "createdAt": "2023-10-10T09:15:00Z"
+  },
+  {
+    "id": "ORD-1004",
+    "customerName": "Fatima Bilal",
+    "phone": "03115566778",
+    "address": "12 Model Town",
+    "city": "Lahore",
+    "paymentMethod": "COD",
+    "status": "Confirmed",
+    "items": [
+      { "productId": "p12", "name": "MOBILE COOLING FAN PRO", "qty": 1, "price": 1999 }
+    ],
+    "totalAmount": 2199,
+    "createdAt": "2023-10-12T16:45:00Z"
+  },
+  {
+    "id": "ORD-1005",
+    "customerName": "Bilal Sheikh",
+    "phone": "03009988776",
+    "address": "34 Cantt",
+    "city": "Peshawar",
+    "paymentMethod": "COD",
+    "status": "Cancelled",
+    "items": [
+      { "productId": "p3", "name": "REDRAGON H510 ZEUS", "qty": 1, "price": 6499 }
+    ],
+    "totalAmount": 6699,
+    "createdAt": "2023-10-15T11:20:00Z"
+  }
+]
